@@ -442,6 +442,7 @@ header a:hover{
     }
     footer p{
         text-align: center;
+        text-transform: uppercase;
     }
     #HouseFlipping {
         display: flex;
